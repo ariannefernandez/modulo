@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec6bee63-9270-44aa-bfc9-04d053fe7f2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modulo/MainModulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modulo/Modulo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ariannefernandez"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ariannefernandez/modulo.git",
+    "accountId": "b0b1ab1c-7a97-4c6f-b92c-7b9c4ede32c6"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="5.063942186838867E-52" />
+      <entry key="MS500" value="5.5067802705196554E-11" />
+      <entry key="S2" value="0.002724708737549" />
+      <entry key="S5" value="0.09745385792256753" />
+      <entry key="S10" value="0.3641325555985158" />
+      <entry key="S30" value="1.121891634837057" />
+      <entry key="S60" value="1.7590445115193902" />
+      <entry key="M2" value="3.058959230441856" />
+      <entry key="M5" value="9.53291024453657" />
+      <entry key="M10" value="19.07021102361154" />
+      <entry key="M15" value="25.32929897760534" />
+      <entry key="M30" value="34.84202524029637" />
+      <entry key="H1" value="41.498114743707795" />
+      <entry key="H2" value="45.48268250181427" />
+      <entry key="H4" value="47.669608826333295" />
+      <entry key="D1" value="49.60116613814686" />
+      <entry key="W1" value="49.94276175142839" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000119718032516" />
+      <entry key="MS500" value="1.1043358988350995" />
+      <entry key="S2" value="1.8380672012415658" />
+      <entry key="S5" value="2.98506922618029" />
+      <entry key="S10" value="4.1065606732032425" />
+      <entry key="S30" value="5.923232747838366" />
+      <entry key="S60" value="6.9698924474561075" />
+      <entry key="M2" value="9.580825163701425" />
+      <entry key="M5" value="22.688262477397554" />
+      <entry key="M10" value="39.731244765734445" />
+      <entry key="M15" value="50.12932905024988" />
+      <entry key="M30" value="65.19256173188239" />
+      <entry key="H1" value="75.35308873075937" />
+      <entry key="H2" value="81.32107739911841" />
+      <entry key="H4" value="84.5652681679856" />
+      <entry key="D1" value="87.41372560928342" />
+      <entry key="W1" value="87.91590012023556" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0015540541740980541" />
+      <entry key="MS500" value="0.32318900326950634" />
+      <entry key="S2" value="1.3880157178735877" />
+      <entry key="S5" value="2.7169547852732907" />
+      <entry key="S10" value="4.174581970516493" />
+      <entry key="S30" value="6.8783097849145864" />
+      <entry key="S60" value="8.624777019716188" />
+      <entry key="M2" value="12.55981945028951" />
+      <entry key="M5" value="32.13398350277105" />
+      <entry key="M10" value="58.72319287651363" />
+      <entry key="M15" value="75.39279498510439" />
+      <entry key="M30" value="99.99203945876965" />
+      <entry key="H1" value="116.82675606105676" />
+      <entry key="H2" value="126.79061614669217" />
+      <entry key="H4" value="132.2280567429319" />
+      <entry key="D1" value="137.01371884729681" />
+      <entry key="W1" value="137.85849340508133" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KHympvn9e9jrCOmwYgLmQIJeR6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainModulo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/PC/Pictures/DOCUMENTOS ARI/IDEA/modulo/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6bee63-9270-44aa-bfc9-04d053fe7f2b" name="Changes" comment="" />
+      <created>1791228951926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791228951926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
